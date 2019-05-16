@@ -7,4 +7,7 @@
 # 
 # el push hacerlo a mano y lo siguiente
 # 
+# parece que si fununcia porque despues de configurar el credential helper,
+# github ya no pidió credenciales de acceso en cada operación
+# 
 # 
